@@ -1,0 +1,28 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "incidunt maxime ipsam",
+        "author": "Edith Schinner",
+        "price": "22.00",
+        "image": "http://placeimg.com/640/480/food",
+        "createdAt": "2022-02-20T07:25:04.602Z"
+      },
+      {
+        "id": 2,
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": "18.50",
+        "image": "http://placeimg.com/640/480/nature",
+        "createdAt": "2023-05-15T11:12:34.123Z"
+      },
+      {
+        "id": 3,
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": "25.00",
+        "image": "http://placeimg.com/640/480/arch",
+        "createdAt": "2023-06-30T08:40:59.654Z"
+      }
+    ]
+  }

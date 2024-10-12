@@ -23,6 +23,46 @@
         "price": "17.75",
         "image": "https://m.media-amazon.com/images/I/71C-K3dDZZL._SL1500_.jpg",
         "createdAt": "2023-06-30T08:40:59.654Z"
-      }
+      },
+      {
+        "id": 4,
+        "name": "The Invisible Life of Addie LaRue",
+        "author": "V.E. Schwab",
+        "price": "22.99",
+        "image": "https://m.media-amazon.com/images/I/71xtFihyn-L._SL1470_.jpg",
+        "createdAt": "2023-08-10T12:20:34.102Z"
+    },
+    {
+        "id": 5,
+        "name": "Project Hail Mary",
+        "author": "Andy Weir",
+        "price": "20.99",
+        "image": "https://m.media-amazon.com/images/I/81zD9kaVW9L._SL1500_.jpg",
+        "createdAt": "2023-07-15T09:15:23.543Z"
+    },
+    {
+        "id": 6,
+        "name": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "price": "19.50",
+        "image": "https://m.media-amazon.com/images/I/71+whvJjE3L._SL1500_.jpg",
+        "createdAt": "2023-05-25T14:45:56.345Z"
+    },
+    {
+        "id": 7,
+        "name": "Song of Achilles",
+        "author": "Madeline Miller",
+        "price": "12.00",
+        "image": "https://m.media-amazon.com/images/I/81msb6gUBTL._SL1500_.jpg",
+        "createdAt": "2023-04-22T10:30:00.123Z"
+    },
+    {
+        "id": 8,
+        "name": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "price": "24.99",
+        "image": "https://m.media-amazon.com/images/I/81lbmz5t2sL._SL1500_.jpg",
+        "createdAt": "2023-01-11T15:00:45.789Z"
+    }
     ]
   }

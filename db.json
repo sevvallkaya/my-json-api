@@ -2,26 +2,26 @@
     "books": [
       {
         "id": 1,
-        "name": "incidunt maxime ipsam",
-        "author": "Edith Schinner",
-        "price": "22.00",
-        "image": "http://placeimg.com/640/480/food",
+        "name": "James",
+        "author": "Percival Everett",
+        "price": "14.99",
+        "image": "https://m.media-amazon.com/images/I/61Dy-yiCJKL._SL1500_.jpg",
         "createdAt": "2022-02-20T07:25:04.602Z" 
       },
       {
         "id": 2,
-        "name": "The Catcher in the Rye",
-        "author": "J.D. Salinger",
-        "price": "18.50",
-        "image": "http://placeimg.com/640/480/nature",
+        "name": "Lost Man's Lane",
+        "author": "Scott Carson",
+        "price": "18.99",
+        "image": "https://m.media-amazon.com/images/I/717DLX4fSCL._SL1500_.jpg",
         "createdAt": "2023-05-15T11:12:34.123Z"
       },
       {
         "id": 3,
-        "name": "To Kill a Mockingbird",
-        "author": "Harper Lee",
-        "price": "25.00",
-        "image": "http://placeimg.com/640/480/arch",
+        "name": "The Ministry of Time",
+        "author": "Kaliane Bradley",
+        "price": "17.75",
+        "image": "https://m.media-amazon.com/images/I/71C-K3dDZZL._SL1500_.jpg",
         "createdAt": "2023-06-30T08:40:59.654Z"
       }
     ]
